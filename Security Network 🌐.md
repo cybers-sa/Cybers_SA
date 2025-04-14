@@ -14,7 +14,7 @@
    - تُعد حلقة وصل بين الشبكات والأمن السيبراني.
 
 3. **Cisco CCNA (Cisco Certified Network Associate)**  
-   🔗 [https://www.cisco.com/site/us/en/learning/certifications/ccna/](https://www.cisco.com/site/us/en/learning/certifications/ccna/)  
+   🔗 ([https://www.cisco.com/site/us/en/learning/certifications/ccna/](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/exams-and-training.html))  
    - تغطي الشبكات، بروتوكولات التوجيه والتبديل، وأساسيات الأمان.  
    - تهيئك لفهم عميق لبنية الشبكات وكيفية تأمينها.
 
